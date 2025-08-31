@@ -22,5 +22,10 @@
     "type": "git",
     "url": "git+https://github.com/yourusername/todo-app-vuejs.git"
   },
-  "homepage": "https://yourusername.github.io/todo-app-vuejs/"
+  "homepage": "https://yourusername.github.io/todo-app-vuejs/",
+  "keywords": [
+    "vue",
+    "todo",
+    "application"
+  ]
 }
