@@ -3,17 +3,17 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",  // Start the development server
-    "build": "vue-cli-service build",  // Build the app for production
-    "lint": "vue-cli-service lint"     // Lint the code
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "vue": "^2.6.12",                // Vue.js framework
-    "vue-template-compiler": "^2.6.12" // Compiler for Vue templates
+    "vue": "^2.6.12",
+    "vue-template-compiler": "^2.6.12"
   },
   "devDependencies": {
-    "@vue/cli-service": "^4.5.15",     // CLI service for Vue.js
-    "@vue/cli-plugin-babel": "^4.5.15"  // Babel plugin for Vue CLI
+    "@vue/cli-service": "^4.5.15",
+    "@vue/cli-plugin-babel": "^4.5.15"
   },
   "description": "A simple todo application built with Vue.js",
   "author": "Your Name <your.email@example.com>",
