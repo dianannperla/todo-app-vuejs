@@ -17,5 +17,9 @@
   },
   "description": "A simple todo application built with Vue.js",
   "author": "Your Name <your.email@example.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/todo-app-vuejs.git"
+  }
 }
